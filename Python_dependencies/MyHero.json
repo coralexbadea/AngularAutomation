@@ -1,0 +1,140 @@
+{
+    "formControl": {
+       "dependencies": ["FormModule", "ReactiveFormModule"] 
+    },
+    "ibm-select": {
+        "dependencies": ["SelectModule"]
+    },
+    "ibm-radio": {
+        "dependencies": ["RadioModule"]
+    },
+    "ibm-acordion" : {
+        "dependencies": ["AccordionModule"]
+    },
+    "ibm-breadcrumb": {
+        "dependencies": ["BreadcrumbModule"]
+    },
+    "ibmButton":  {
+        "dependencies": ["ButtonModule", "IconModule"]
+    },
+    "ibmIcon":  {
+        "dependencies": ["IconModule"]
+    },
+    "ibm-checkbox": {
+        "dependencies": ["CheckboxModule", "ReactiveFormsModule"]
+    },
+    "ibm-code-snippet": {
+        "dependencies": ["CodeSnippetModule", "ButtonModule"]
+    },
+    "ibm-combo-box": {
+        "dependencies": ["ComboBoxModule","ButtonModule"]
+    },
+    "ibm-content-switcher": {
+        "dependencies": ["ContentSwitcherModule"]
+    },
+    "ibm-date-picker-input": {
+        "dependenciens": ["DatePickerModule","ButtonModule"
+        ]
+    },
+    "ngModel": {
+        "dependencies": ["FormsModule"]
+    },
+    "ibm-dropdown": {
+        "dependencies": ["DropdownModule"]
+    },
+    "ibm-file-uploader":{
+        "dependencies": ["FileUploaderModule"]
+    },
+    "ibmGrid": {
+        "dependencies": ["GridModule"]
+    },
+    "ibm-inline-loading": {
+        "dependencies": ["InlineLoadingModule"]
+    },
+    "imb-label":{
+        "dependencies": ["InputModule"]
+    },
+    "ibmTextArea": {
+        "dependencies": ["InputModule"]
+    },
+    "ibmLink":{
+        "dependencies": ["LinkModule"]
+    },
+    "ibmList": {
+        "dependencies": ["ListModule"]
+    },
+    "ibmListItem": {
+        "dependencies": ["ListModule"]
+    },
+    "ibm-loading": {
+        "dependencies": ["LoadingModule"]
+    },
+    "ibm-modal": {
+        "dependencies":  ["ModalModule", "PlaceholderModule", "ButtonModule"]
+    },
+    "ibm-placeholder": {
+        "dependencies": ["PlaceholderModule"]
+    },
+    "ibm-notification": {
+        "dependencies": ["NotificationModule", "ButtonModule"]
+    },
+    "ibm-number": {
+        "dependencies": ["NumberModule"]
+    },
+    "ibm-overflow-menu": {
+        "dependencies": ["DialogModule",
+                        "PlaceholderModule",
+                        "CheckboxModule",
+                        "IconModule"]
+    },
+    "ibm-pagination": {
+        "dependencies": ["NFormsModule","PaginationModule"]
+    },
+    "ibm-pagination-nav": {
+        "dependencies": ["NFormsModule","PaginationModule"]
+    },
+    "ibm-progress-indicator": {
+        "dependencies": ["ProgressIndicatorModule","PlaceholderModule"]
+    },
+    "ibm-search": {
+        "dependencies": ["SearchModule"]
+    },
+    "ibm-skeleton-text": {
+        "dependencies": ["SkeletonModule"]
+    },
+    "ibm-skeleton-placeholder": {
+        "dependencies": ["SkeletonModule"]
+    },
+    "ibm-skeleton": {
+        "dependencies": ["SkeletonModule"]
+    },
+    "ibm-slider": {
+        "dependencies": ["SliderModule"]
+    },
+    "ibm-structured-list": {
+        "dependencies": ["StructuredListModule"]
+    },
+    "ibm-table-container": {
+        "dependencies": ["NFormsModule","TableModule"]
+    },
+    "ibm-tabs": {
+        "dependencies": ["TabsModule"]
+    },
+    "ibm-tag": {
+        "dependencies": ["TagModule"]
+    },
+    "ibm-tile": {
+        "dependencies": ["TilesModule"]
+    },
+    "ibm-timepicker-select": {
+        "dependencies": ["TimePickerSelectModule"]
+    },
+    "ibm-toggle": {
+        "dependencies": ["ToggleModule"]
+    },
+    "ibm-tooltip-definition": {
+        "dependencies": ["TooltipDefinitionModule"]
+    }
+
+
+}
